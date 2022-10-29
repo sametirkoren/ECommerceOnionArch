@@ -5,7 +5,16 @@ C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debu
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -31,3 +40,4 @@ C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\obj\Debu
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Presentation\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll

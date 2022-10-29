@@ -1,4 +1,5 @@
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.deps.json
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.runtimeconfig.json
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Persistence.pdb
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net6.0\ECommerce.Application.dll
@@ -14,4 +15,5 @@ C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistenc
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\refint\ECommerce.Persistence.dll
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.pdb
+C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ECommerce.Persistence.genruntimeconfig.cache
 C:\Users\vakidev\Desktop\ECommerce\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net6.0\ref\ECommerce.Persistence.dll
