@@ -522,7 +522,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "ECommerce.Domain": "1.0.0"
+          "ECommerce.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
         },
         "compile": {
           "bin/placeholder/ECommerce.Application.dll": {}
